@@ -2,11 +2,15 @@
 Voice control to read manga online hands free
 
 Built for mangafox
+
 **This is a for-fun project, accuracy and speed is a work in progress**
+
 Made out pure laziness to touch the keyboard especially if I'm eating with my hands.
 
 Some prerequisites before executing program
+
 `pip install SpeechRecognition`
+
 `pip instal pynput`
 
 Let's use it:
