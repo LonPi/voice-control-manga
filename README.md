@@ -6,11 +6,11 @@ Built for mangafox
 Made out pure laziness to touch the keyboard especially if I'm eating with my hands.
 
 Some prerequisites before executing program
-'pip install SpeechRecognition'
-'pip instal pynput'
+`pip install SpeechRecognition`
+`pip instal pynput`
 
 Let's use it:
-1. 'python voice.py'
+1. `python voice.py`
 2. Go to the manga page
 3. Leave your cursor on the page
 4. Get dirty and eat without touching the mouse or keyboard till the chapters are all out, and occasionally screaming at the mic
