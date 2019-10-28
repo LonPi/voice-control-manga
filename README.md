@@ -19,7 +19,9 @@ Let's use it:
 5. Enjoy
 
 ### Version stuff
+```
 Windows 10
 Python 3.6.8 :: Anaconda, Inc.
 SpeechRecognition 3.8.1
 pynput 1.4.4
+```
